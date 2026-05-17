@@ -1,4 +1,9 @@
-test.db
-test.log
+# for db
+*.db
+
+# for logs
+*.log
+
+# for compilation and build directories
 target/
 bin/
